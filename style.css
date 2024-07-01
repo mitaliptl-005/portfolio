@@ -244,6 +244,7 @@ span {
     border-radius: 20px;
     box-shadow: 2px 5px 5px 2px var(--main-color);
     overflow: hidden;
+    margin-top: 40px;
 }
 .project-container .project-box p{
     font-size: 20px;
@@ -341,14 +342,19 @@ span {
 #Skills {
     color: #c6d3d3;
     background-color: Grey13;
+    font-size: 15px;
 }
-#Skills h3{
+#Skills span{
     color:rgb(23, 129, 221)
 }
 
 #Certificate {
     color: #c6d3d3;
     background-color: Grey13;
+}
+#Certificate a{
+    color:rgb(23, 129, 221);
+
 }
 #Achievement {
     color: #c6d3d3;
